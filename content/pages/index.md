@@ -21,7 +21,7 @@ sections:
       - label: Learn More
         url: /about
         style: button
-    image: images/feature.svg
+    image: /images/byxmas.jpg
     image_alt: Feature 1 placeholder image
     image_position: right
   - type: feature_section
