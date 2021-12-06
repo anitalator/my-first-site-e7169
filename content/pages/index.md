@@ -34,7 +34,7 @@ sections:
       - label: Learn More
         url: /about
         style: button
-    image: images/feature.svg
+    image: /images/universal.png
     image_alt: Feature 2 placeholder image
     image_position: left
 seo:
