@@ -12,7 +12,7 @@ sections:
         url: 'https://www.stackbit.com/docs/'
         style: button
   - type: feature_section
-    title: This is heading
+    title: Greetings from Grogu!
     content: |-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
